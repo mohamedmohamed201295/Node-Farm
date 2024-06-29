@@ -1,0 +1,15 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Mohamed ElBaz",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0",
+    "slugify": "^1.6.6"
+  }
+}
